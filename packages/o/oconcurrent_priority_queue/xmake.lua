@@ -3,7 +3,7 @@ package("oconcurrent_priority_queue")
     set_description("oeotyan's concurrent_priority_queue")
 
     add_urls("https://github.com/OEOTYAN/concurrent_priority_queue.git")
-    add_versions("v0.1.0", "af3601fa93990f12712ceaa012b57a3f68f27306")
+    add_versions("v0.1.0", "84e397c4e197e5613984234bf293e0813c3ee0a8")
 
     add_deps("outility")
 
