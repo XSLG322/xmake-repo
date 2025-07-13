@@ -1,5 +1,5 @@
 package("bsci")
-    add_urls("https://github.com/OEOTYAN/BedrockServerClientInterface.git")
+    add_urls("https://github.com/XSLG322/BedrockServerClientInterface.git")
     add_versions("0.1.3", "09b93fe157be697ba84a2cbec242454e9290b67c")
     add_versions("0.1.4", "f3fbbdca5df9c10b6c8f1276a7e0ee03497ad098")
     add_versions("0.1.5", "93a09bc81bba0dfcb489e8df122353dc616c3c7d")
